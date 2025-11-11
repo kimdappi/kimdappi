@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**kimdappi/kimdappi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+AI 개발자 직무 지원자, 김나연입니다.
 
-Here are some ideas to get you started:
+# RESUME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📎 보유 스킬
+- Python
+- SQL
+- HTML CSS JAVASCRIPT
+- NOTION GITHUB Slack
+
+### 🎓 학력
+
+- **서울여자대학교**  2024.03 - now
+데이터사이언스학과
+- 백석대학교  ****2022.03 - 2024.02
+IoT전공
+- 학점은행제  ****2021.03 - 2022.02
+경영전공(경영전문학사)
+
+### 🏆 수상 내역
+
+- 교내 빅데이터 기반 마케팅 중간발표 우수상 2024.04
+- 2024학년도 여름방학 SW사관학교 Programming GURU1 집중코딩과정 개인상2024.08
+
+### 🌱 그 외
+
+- 두끼 음식점에서 약 2년 반 아르바이트 경험
+- 영어학원 조교 경험
