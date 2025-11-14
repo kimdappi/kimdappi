@@ -1,8 +1,4 @@
 
-## About me
-AI 개발자 직무 지원자, 김나연입니다.
-
-# RESUME
 
 ### 📎 보유 스킬
 - Python
