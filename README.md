@@ -3,7 +3,7 @@
 ### 📎 보유 스킬
 - Python
 - SQL
-- HTML CSS JAVASCRIPT
+- HTML CSS Javascript
 - NOTION GITHUB Slack
 
 ### 🎓 학력
