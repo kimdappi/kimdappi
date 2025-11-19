@@ -4,4 +4,5 @@
 ### 📎 보유 스킬
 - Python SQL HTML CSS Javascript  NOTION GITHUB Slack Node.js FASTAPI Photoshop Blender Canva 
 
-## 프로젝트 
+## 프로젝트 [(링크)](https://github.com/kimdappi/portfolio/blob/main/README.md
+)
