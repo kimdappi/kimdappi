@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 
 <!-- Frameworks -->
