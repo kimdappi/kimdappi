@@ -1,5 +1,5 @@
 ### 🎓 학력
-- **서울여자대학교** 데이터사이언스학과 2024.03 - now
+- 서울여자대학교 데이터사이언스학과 2024.03 - now
 
 ### 📎 보유 스킬
 <p align="left">
@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
-
 
 </p>
 
