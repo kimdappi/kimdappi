@@ -20,6 +20,3 @@
 
 </p>
 
-
-### 💻 프로젝트 소개
--  [링크](https://github.com/kimdappi/kimdappi/blob/main/project.md) 로 들어오시면, 제가 진행한 프로젝트에 대해 더 보실 수 있습니다!
