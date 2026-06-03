@@ -1,22 +1,14 @@
+## 👋 About Me
 
+**AI 모델을 실제 서비스 흐름으로 연결하는 신입 AI 엔지니어 김나연입니다.**
 
-### 📎 보유 스킬
-<p align="left">
+LLM, RAG, Agent Workflow를 활용해  
+문제 분석, 데이터 검색, 근거 기반 응답 생성이 가능한 AI 서비스 구조에 관심이 있습니다.
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+Python, FastAPI, PostgreSQL, Vector DB를 기반으로  
+AI 기능이 실제 백엔드 시스템과 연결되는 흐름을 설계하고 구현해왔습니다.
 
+또한 여러 팀 프로젝트에서 PM 역할을 맡아  
+기획 정리, 기술 스택 선정, 코드 병합, 문서화, 팀원 간 소통을 주도했습니다.
 
-
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-
-</p>
-
+현재는 실제 서비스에 적용 가능한 AI 시스템을 구현하는 엔지니어로 성장하고 있습니다.
